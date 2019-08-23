@@ -1896,8 +1896,9 @@ background: rgba(245, 245, 245, 0.9);
 			height: 170px;
 		}
 		.blog_date {
-			  float: left;
-			  width: 14%;
+	float: left;
+	width: 36%;
+	height: 5%;
 		}
 		.blog_desc {
 		  float: left;
