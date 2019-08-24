@@ -624,8 +624,12 @@ div#portfolio {
 .contact-grid p {
 	font-size: 1.1em;
 	color: #999;
-	padding: 0.5em 0 0.2em 0;
-	line-height:1.8em;
+	line-height: 1.8em;
+	width: 500px;
+	padding-top: 0.5em;
+	padding-right: 0;
+	padding-bottom: 0.2em;
+	padding-left: 0;
 }
 p.label1 {
 	font-size: 1.2em;
@@ -1842,9 +1846,9 @@ background: rgba(245, 245, 245, 0.9);
 			padding: 0.8em 1.5em;
 		}
 		.contact-grid {
-			float: left;
-			width: 50%;
-			margin: 2em 0;
+	float: left;
+	width: 85%;
+	margin: 2em 0;
 		}
 		.contact-grid h5 {
 			font-size: 1.1em;
@@ -1856,7 +1860,8 @@ background: rgba(245, 245, 245, 0.9);
 			width: 40%;
 		}
 		.contact-grid p {
-			font-size: 0.96em;
+	font-size: 0.96em;
+	width: auto;
 		}
 		.contact-grid {
 		  padding: 0 12px 0 0px;
@@ -2140,10 +2145,11 @@ background: rgba(245, 245, 245, 0.9);
 			padding: 7px 7px;
 		}
 		.contact-section {
-			padding: 2em 0;
+	padding: 2em 0;
+	box-sizing: border-box;
 		}
 		.contact-grid p {
-			font-size: 0.96em;
+	font-size: inherit;
 		}
 		.footer-section {
 			padding: 1.5em 0;
