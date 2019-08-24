@@ -876,7 +876,7 @@ background: #2f4052;
   -moz-border-radius: 50%;
 }
 .blog_heading p span {
-	color: #C86360;
+	color: #586889;
 	font-size: 18px;
 	text-transform: uppercase;
 }
@@ -954,7 +954,7 @@ img.zoom-img {
 	}
 .blog_heading a {
 	font-size: 1.5em;
-	color: #EF4D98;
+	color: #586889;
 	text-decoration: none;
 	text-transform:capitalize;
 }
@@ -1603,7 +1603,7 @@ background: rgba(245, 245, 245, 0.9);
 		}
 		.blog_date {
 	width: 11%;
-	background-color: #586889;
+	background-color: #EF4D98;
 		 }
 		 .bd {
 		  float: left;
