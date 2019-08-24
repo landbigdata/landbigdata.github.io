@@ -5778,3 +5778,6 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+.blog-content .container .section.group .blog-grids .cont.span_2_of_3 .col-md-8.blog-grid .blog_posts .blog_desc .section.group.example .col.blogdata_1_of_2 .blog_data p {
+	text-align: justify;
+}
