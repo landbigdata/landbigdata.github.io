@@ -953,10 +953,11 @@ img.zoom-img {
 	color:#2098d1;
 	}
 .blog_heading a {
-	font-size: 1.5em;
-	color: #586889;
-	text-decoration: none;
-	text-transform:capitalize;
+	font-size: 1.7em;
+	color: rgba(80, 106, 133, 1);
+	text-decoration: blink;
+	font-weight:600;
+	margin-bottom: 0.5em;
 }
 .blog_heading p {
 	color:#555;
@@ -1586,9 +1587,11 @@ background: rgba(245, 245, 245, 0.9);
 			font-size: 2.3em;
 		}
 		.blog_heading a {
-	font-size: 1.2em;
-	color: #586889;
+	font-size: 1.7em;
+	color: rgba(80, 106, 133, 1);
 	text-decoration: blink;
+	font-weight:600;
+	margin-bottom: 0.5em;
 		}
 		a.blog1 {
 		font-size: 1em;
@@ -1947,7 +1950,15 @@ background: rgba(245, 245, 245, 0.9);
 			font-size: 1.7em;
 		}
 		.blog_heading a {
-			font-size: 1.1em;
+			font-size: 1.7em;
+			color: rgba(80, 106, 133, 1);
+			text-decoration: blink;
+			font-weight:600;
+			margin-bottom: 0.5em;
+
+
+
+
 		}
 		.blog_heading p {
 			font-size: 1em;
@@ -2180,7 +2191,11 @@ background: rgba(245, 245, 245, 0.9);
 			font-size: 1.5em;
 		}
 		.blog_heading a {
-			font-size: 1.1em;
+			font-size: 1.7em;
+			color: rgba(80, 106, 133, 1);
+			text-decoration: blink;
+			font-weight:600;
+			margin-bottom: 0.5em;
 		}
 		.blog_heading h3 {
 			font-size: 1.05em;
@@ -2466,7 +2481,11 @@ background: rgba(245, 245, 245, 0.9);
 		  font-size: 1.4em;
 		}
 		.blog_heading a {
-			font-size: 1.05em;
+			font-size: 1.7em;
+			color: rgba(80, 106, 133, 1);
+			text-decoration: blink;
+			font-weight:600;
+			margin-bottom: 0.5em;
 		}
 		.blog_posts figure span {
 		  font-size: 1.2em;
@@ -2737,7 +2756,11 @@ background: rgba(245, 245, 245, 0.9);
 		  width: 82%;
 		}
 		.blog_heading a {
-			font-size: 0.9em;
+			font-size: 1.7em;
+			color: rgba(80, 106, 133, 1);
+			text-decoration: blink;
+			font-weight:600;
+			margin-bottom: 0.5em;
 		}
 		.blog_1_of_2 {
 			width: 100%;
