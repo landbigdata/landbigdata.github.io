@@ -1,0 +1,42 @@
+<script>
+   function check(){
+      var name=document.getElementById("name").value;
+   var pass=document.getElementById("pass").value;
+   if(name=="cscproject" && pass=="cscproject"){
+   alert("Login Succeed!!");
+   window.document.f.action="https://mikemengmengli.github.io/cscproject/confidential/related_research.html";
+   window.document.f.submit();
+   }else{
+   alert("Username or Password not correct");
+   
+   }
+   
+   }
+</script>
+
+<form name="f" action="">
+<center>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>username:
+    <INPUT TYPE="text" NAME="" id="name"><br>
+  </p>
+</center>
+<center>
+  <p>password:
+  <INPUT TYPE="password" NAME="" id="pass">
+  </p>
+  <p>&nbsp;</p>
+</center>
+<center><INPUT TYPE="button" value="Login" onclick="check()"><INPUT TYPE="reset" value="Reset"></center>
+</form> 
