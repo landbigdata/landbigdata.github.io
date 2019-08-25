@@ -826,7 +826,7 @@ background: #2f4052;
 }
 .blog_date {
 	float: left;
-	width: 10%;
+	width: 8%;
 	background:#EF4D98;
 	background-repeat: repeat-x;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffb1b1b1',endColorstr='#ff5f5f5f',GradientType=0);
@@ -840,13 +840,13 @@ background: #2f4052;
 }
 .blog_posts figure {
 	font-weight: 700;
-	font-size: 12px;
+	font-size: 10px;
 	color: #FFF;
 	text-align: center;
 	padding:14px 0;
 }
 .blog_posts figure span {
-	font-size:2.5em;
+	font-size:2.0em;
 	line-height: 1.2em;
 	color: #FFF;
 	display: block;
@@ -1605,7 +1605,7 @@ background: rgba(245, 245, 245, 0.9);
 		  width: 87%;
 		}
 		.blog_date {
-	width: 11%;
+	width: 8%;
 	background-color: #EF4D98;
 		 }
 		 .bd {
@@ -1912,8 +1912,8 @@ background: rgba(245, 245, 245, 0.9);
 		}
 		.blog_date {
 	float: left;
-	width: 36%;
-	height: 5%;
+	width: 28%;
+	height: 4%;
 		}
 		.blog_desc {
 		  float: left;
