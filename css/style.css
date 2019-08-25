@@ -877,12 +877,12 @@ background: #2f4052;
 }
 .blog_heading p span {
 	color: #586889;
-	font-size: 10px;
+	font-size: 1.2em;
 	text-transform: uppercase;
 }
 .blog_heading p {
 	color:#9A585C;
-	font-size: 10px;
+	font-size: 1.2em;
 	padding:0;
 }
 .blog_1_of_2 {
@@ -953,7 +953,7 @@ img.zoom-img {
 	color:#2098d1;
 	}
 .blog_heading a {
-	font-size: 0.5em;
+	font-size: 1.2em;
 	color: rgba(80, 106, 133, 1);
 	text-decoration: blink;
 	font-weight:600;
@@ -961,7 +961,7 @@ img.zoom-img {
 }
 .blog_heading p {
 	color:#555;
-	font-size: 0.5em;
+	font-size: 1.2em;
 	line-height: 1.8em;
 	font-weight: 300;
 }
@@ -1587,7 +1587,7 @@ background: rgba(245, 245, 245, 0.9);
 			font-size: 2.3em;
 		}
 		.blog_heading a {
-	font-size: 1.7em;
+	font-size: 1.2em;
 	color: rgba(80, 106, 133, 1);
 	text-decoration: blink;
 	font-weight:600;
@@ -1597,7 +1597,7 @@ background: rgba(245, 245, 245, 0.9);
 		font-size: 1em;
 		}
 		.blog_heading p {
-			font-size: 1.1em;
+			font-size: 1.2em;
 		}
 		.blog_desc {
 		  float: left;
@@ -1950,7 +1950,7 @@ background: rgba(245, 245, 245, 0.9);
 			font-size: 1.7em;
 		}
 		.blog_heading a {
-			font-size: 1.7em;
+			font-size: 1.2em;
 			color: rgba(80, 106, 133, 1);
 			text-decoration: blink;
 			font-weight:600;
@@ -1961,7 +1961,7 @@ background: rgba(245, 245, 245, 0.9);
 
 		}
 		.blog_heading p {
-			font-size: 1em;
+			font-size: 1.2em;
 		}
 		.blog_heading h3 {
 			font-size: 1.1em;
@@ -2191,7 +2191,7 @@ background: rgba(245, 245, 245, 0.9);
 			font-size: 1.5em;
 		}
 		.blog_heading a {
-			font-size: 1.7em;
+			font-size: 1.2em;
 			color: rgba(80, 106, 133, 1);
 			text-decoration: blink;
 			font-weight:600;
@@ -2201,7 +2201,7 @@ background: rgba(245, 245, 245, 0.9);
 			font-size: 1.05em;
 		}
 		.blog_heading p {
-			font-size: 0.99em;
+			font-size: 1.2em;
 		}
 		.blog_date {
 		  float: left;
@@ -2481,7 +2481,7 @@ background: rgba(245, 245, 245, 0.9);
 		  font-size: 1.4em;
 		}
 		.blog_heading a {
-			font-size: 1.7em;
+			font-size: 1.2em;
 			color: rgba(80, 106, 133, 1);
 			text-decoration: blink;
 			font-weight:600;
@@ -2756,7 +2756,7 @@ background: rgba(245, 245, 245, 0.9);
 		  width: 82%;
 		}
 		.blog_heading a {
-			font-size: 1.7em;
+			font-size: 1.2em;
 			color: rgba(80, 106, 133, 1);
 			text-decoration: blink;
 			font-weight:600;
