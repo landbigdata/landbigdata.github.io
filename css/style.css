@@ -877,12 +877,12 @@ background: #2f4052;
 }
 .blog_heading p span {
 	color: #586889;
-	font-size: 0.5em;
+	font-size: 10px;
 	text-transform: uppercase;
 }
 .blog_heading p {
 	color:#9A585C;
-	font-size: 0.5em;
+	font-size: 10px;
 	padding:0;
 }
 .blog_1_of_2 {
