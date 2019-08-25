@@ -877,12 +877,12 @@ background: #2f4052;
 }
 .blog_heading p span {
 	color: #586889;
-	font-size: 18px;
+	font-size: 10px;
 	text-transform: uppercase;
 }
 .blog_heading p {
 	color:#9A585C;
-	font-size: 0.8em;
+	font-size: 0.5em;
 	padding:0;
 }
 .blog_1_of_2 {
@@ -953,7 +953,7 @@ img.zoom-img {
 	color:#2098d1;
 	}
 .blog_heading a {
-	font-size: 1.7em;
+	font-size: 1.2em;
 	color: rgba(80, 106, 133, 1);
 	text-decoration: blink;
 	font-weight:600;
