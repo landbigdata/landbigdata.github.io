@@ -953,7 +953,7 @@ img.zoom-img {
 	color:#2098d1;
 	}
 .blog_heading a {
-	font-size: 1.2em;
+	font-size: 0.5em;
 	color: rgba(80, 106, 133, 1);
 	text-decoration: blink;
 	font-weight:600;
@@ -961,7 +961,7 @@ img.zoom-img {
 }
 .blog_heading p {
 	color:#555;
-	font-size: 1.2em;
+	font-size: 0.5em;
 	line-height: 1.8em;
 	font-weight: 300;
 }
